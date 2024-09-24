@@ -13,7 +13,7 @@ O projeto foi criado como parte avaliativa da disciplina de Fundamentos de Desen
  
 O projeto se consiste, basicamente, em uma tela de formulário de contato, como diz o nome.
  
- ![Resultado do projeto](img/)
+ ![Resultado do projeto](img/result-final-contact.PNG)
  
 ### Estilização
  
@@ -25,9 +25,7 @@ O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css
 * Color - O color é responsável por definir a cor de um determinado texto.
  
 ### Elementos do HTML
- 
-![Elementos do HTML](img/elementos-html.png)
- 
+
 * Main - O main define o conteúdo principal dentro do <body> em seu documento ou aplicação.
 * Form - O form é usada para criar um formulário onde os usuários podem inserir dados.
 * Label - O label representa uma legenda para um item em uma interface de usuário.
