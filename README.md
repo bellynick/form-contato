@@ -69,4 +69,4 @@ O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css
  
 ## Autor(a)
  
-O projeto foi desenvolvido pela estudante Maria Luíza Farias da Silva.
+O projeto foi desenvolvido pela estudante Isabelly dos Reis Santos.
